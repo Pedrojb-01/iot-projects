@@ -21,3 +21,9 @@ Press a button to turn on an LED, release to turn off. 3 buttons and 3 LEDs.
 - **Board:** Arduino Uno
 - **Components:** 3 LEDs (red, blue, magenta), 3 push buttons
 - **Concepts:** digitalRead, INPUT_PULLUP, if/else
+
+### 04 - Potentiometer + Serial Monitor
+Reads a potentiometer value and prints to Serial Monitor only when the value changes.
+- **Board:** Arduino Uno
+- **Components:** Potentiometer
+- **Concepts:** analogRead, Serial.begin, Serial.println, state comparison
