@@ -15,3 +15,9 @@ A traffic light simulation with red, yellow, and green LEDs.
 - **Board:** Arduino Uno
 - **Components:** 3 LEDs (red, yellow, green)
 - **Concepts:** multiple pins, digitalWrite, pinMode, delay, constants
+
+### 03 - Button + LED
+Press a button to turn on an LED, release to turn off. 3 buttons and 3 LEDs.
+- **Board:** Arduino Uno
+- **Components:** 3 LEDs (red, blue, magenta), 3 push buttons
+- **Concepts:** digitalRead, INPUT_PULLUP, if/else
